@@ -6,6 +6,9 @@
 //  Copyright (c) 2015 Jaroslaw Konieczny. All rights reserved.
 //
 //
+
+// to je moje ... ed
+
 import UIKit
 
 class ViewController: UIViewController {
