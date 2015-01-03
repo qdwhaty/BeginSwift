@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45B46AE0-D29D-42CD-BB7D-56F7EE70ADFD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BeginSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8DB60C1457E95D78A34FCEA9F16B0281E064550E</key>
+		<string>https://github.com/qdwhaty/BeginSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BeginSwift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8DB60C1457E95D78A34FCEA9F16B0281E064550E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/qdwhaty/BeginSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8DB60C1457E95D78A34FCEA9F16B0281E064550E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8DB60C1457E95D78A34FCEA9F16B0281E064550E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BeginSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
