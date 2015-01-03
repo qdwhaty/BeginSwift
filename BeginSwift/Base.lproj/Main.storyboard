@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OpH-kr-G3d">
+                            <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="OpH-kr-G3d">
                                 <rect key="frame" x="38" y="211" width="600" height="600"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                 <constraints>
@@ -42,13 +42,6 @@
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="OpH-kr-G3d" secondAttribute="bottom" constant="10" id="kxg-QN-JMU"/>
                             <constraint firstAttribute="trailingMargin" secondItem="OpH-kr-G3d" secondAttribute="trailing" constant="10" id="uu1-6H-0bY"/>
                         </constraints>
-                        <variation key="default">
-                            <mask key="constraints">
-                                <exclude reference="HaJ-N9-obD"/>
-                                <exclude reference="uu1-6H-0bY"/>
-                                <exclude reference="kxg-QN-JMU"/>
-                            </mask>
-                        </variation>
                         <variation key="heightClass=regular">
                             <mask key="constraints">
                                 <include reference="HaJ-N9-obD"/>
