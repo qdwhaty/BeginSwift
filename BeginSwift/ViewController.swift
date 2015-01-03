@@ -7,7 +7,7 @@
 //
 //
 
-// to je moje ... ed
+// to je moje ... ed..
 
 import UIKit
 
